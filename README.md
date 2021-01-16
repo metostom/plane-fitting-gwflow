@@ -8,14 +8,14 @@ Points are used to solve or estimate plane equation of the form:
 
 <img src="https://latex.codecogs.com/svg.latex?Ax+By+Cz-D=0" title="formula" size=100px/>
 
-and the gradient direction calculated as below.
+the gradient and direction are then calculated as below.
 
-<b> Gradient is calculated as: </b>
+<b> Gradient </b>
 
 
 <img src="https://latex.codecogs.com/svg.latex?gradient=\sqrt{\frac{A^2+B^2}{C^2}}" title="formula" size=100px/>
 
-<b> Direction is calculated as: </b>
+<b> Direction </b>
 
 <img src="https://latex.codecogs.com/svg.latex?\theta=arctan\left(\frac{B}{A}\right)" title="formula2" size=100px/>
 
