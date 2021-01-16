@@ -46,6 +46,6 @@ resultsdf = cd.analyzeAllClusters()
 
 ```
 
-## Graphed Output Looks like
+## Graphed Histogram of GW flow Direction Output Looks like
 
-![Alt Text](contourmpl.png)
+![Alt Text](hists.png)
