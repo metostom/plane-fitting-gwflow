@@ -1,7 +1,7 @@
 # plane-fitting-gwflow
 
 ##  Overview
-Computation of groundwater flow gradient and direction using N-point plane fitting solution. Computes true fit for the 3-point problem and a least-squares approximation for 4+ point solutions. 
+Computation of groundwater flow gradient and direction using N-point plane solution. Computes true fit for the 3-point problem and a least-squares optimized fit for 4+ point solutions. 
 
 
 Points are used to solve or estimate plane equation of the form:
