@@ -3,14 +3,21 @@
 ##  Overview
 Computation of groundwater flow gradient and direction using N-point plane fitting solution. Computes true fit for the 3-point problem and a least-squares approximation for 4+ point solutions. 
 
+
+Points are used to solve or estimate plane equation of the form:
+
+<img src="https://latex.codecogs.com/svg.latex?Ax+By+Cz-D=0" title="formula" size=100px/>
+
+and the gradient direction calculated as below.
+
 <b> Gradient is calculated as: </b>
 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;gradient=\sqrt{\frac{A^2+B^2}{C^2}}" title="formula" size=100px/>
+<img src="https://latex.codecogs.com/svg.latex?gradient=\sqrt{\frac{A^2+B^2}{C^2}}" title="formula" size=100px/>
 
 <b> Direction is calculated as: </b>
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\theta=arctan\left(\frac{B}{A}\right)" title="formula2" size=100px/>
+<img src="https://latex.codecogs.com/svg.latex?\theta=arctan\left(\frac{B}{A}\right)" title="formula2" size=100px/>
 
 where theta is degrees from the x-axis, then converted to compass degrees depending on the quadrant
 
