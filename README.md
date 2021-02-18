@@ -17,7 +17,7 @@ the gradient and direction are then calculated as below.
 
 <b> Direction </b>
 
-<img src="https://latex.codecogs.com/svg.latex?\theta=arctan\left(\frac{B}{A}\right)" title="formula2" size=100px/>
+<img src="https://latex.codecogs.com/svg.latex?\theta=arctan(\frac{B}{A})" title="formula2" size=100px/>
 
 where theta is degrees from the x-axis, then converted to compass degrees depending on the quadrant
 
